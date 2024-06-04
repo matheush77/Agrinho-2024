@@ -17,3 +17,11 @@ body{
       padding: 20px;
       
   }
+
+  .cabecalho-menu-listaitem{
+
+    display: inline;
+    text-transform: uppercase;
+    margin: 30px;
+    
+}
