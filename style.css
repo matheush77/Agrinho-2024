@@ -25,3 +25,7 @@ body{
     margin: 30px;
     
 }
+
+.sobre{
+  display: flex;
+}
