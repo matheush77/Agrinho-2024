@@ -28,6 +28,12 @@ body{
 
 .sobre{
   display: flex;
-  padding:10px ;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.sobre_texto{
+  padding: 40px;
 
 }
