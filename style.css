@@ -37,7 +37,7 @@ body{
 
 .sobre_texto{
   padding: 40px;
-
+  color: white;
 }
 
 .elementos{
@@ -64,5 +64,9 @@ body{
 }
 
 .elementos__texto{
+  color: white;
+}
+
+.sobre_texto-titulo{
   color: white;
 }
