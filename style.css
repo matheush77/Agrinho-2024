@@ -47,11 +47,11 @@ body{
   flex-wrap: wrap;
   gap: 20px;
   padding: 20px;
-  color: white;
 }
 
 .elementos__div{
   text-align: center;
+  color: white;
 }
 
 .elementos__imagem{
