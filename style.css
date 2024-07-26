@@ -20,11 +20,11 @@ body{
 
   .cabecalho-menu-listaitem{
 
+    text-decoration: none;
     display: inline;
     text-transform: uppercase;
     margin: 30px;
-    text-decoration: none;
-    color: white;
+    
     
 }
 
