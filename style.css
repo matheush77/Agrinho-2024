@@ -23,7 +23,7 @@ body{
     display: inline;
     text-transform: uppercase;
     margin: 30px;
-    text-decoration: none;
+    text-decoration: none !important;
     
 }
 
