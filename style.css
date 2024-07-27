@@ -73,7 +73,6 @@ a {
 text-decoration: none;
 }
 
-.sobre__imagem{
-  width: 751;
-  height: 403;
+.sobre_imagem{
+  size: 50%;
 }
