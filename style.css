@@ -36,6 +36,7 @@ body{
 .sobre_texto{
   padding: 40px;
   color: white;
+  margin-right: 71px;
 }
 
 .elementos{
@@ -76,7 +77,7 @@ text-decoration: none;
 .sobre_imagem{
   width: 850px;
   height: 450px;
-  margin: 10px;
+  margin-left: 160px;
 }
 
 .cabecalho-menu-listaitem a{
