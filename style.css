@@ -72,3 +72,8 @@ body{
 a {
 text-decoration: none;
 }
+
+.sobre__imagem{
+  size: 50%;
+
+}
