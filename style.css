@@ -74,5 +74,6 @@ text-decoration: none;
 }
 
 .sobre_imagem{
-  size: 95%;
+  width: 600px;
+  height: 900px;
 }
