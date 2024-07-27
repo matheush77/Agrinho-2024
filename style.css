@@ -23,7 +23,6 @@ body{
     display: inline;
     text-transform: uppercase;
     margin: 30px;
-    color: white;
     
 }
 
@@ -78,4 +77,8 @@ text-decoration: none;
   width: 850px;
   height: 450px;
   margin: 10px;
+}
+
+.cabecalho-menu-lista{
+  color: white;
 }
