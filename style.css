@@ -69,7 +69,6 @@ body{
   color: white;
 }
 
-.cabecalho-menu-lista{
-  text-decoration: none;
-
+a {
+text-decoration: none;
 }
