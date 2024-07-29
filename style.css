@@ -90,8 +90,3 @@ text-decoration: none;
  .cabecalho-menu-listaitem a:active{
      color: red;
  }
-
- .personagens-titulo{
-  text-align: center;
-  padding: 24px 0;
-  color: white;
