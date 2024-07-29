@@ -95,3 +95,10 @@ text-decoration: none;
   text-align: center;
   padding: 15px 0;
 }
+
+.rodape__logo{
+  width: 8%;
+  border-radius: 50%;
+  padding: 20px;
+  
+}
