@@ -1,6 +1,5 @@
 body{
-
-    background-color: black
+  background-color: black
   
   }
   
@@ -11,14 +10,13 @@ body{
   }
   
   .cabecalho-imagem{
-      width: 8%;
-      border-radius: 50%;
-      padding: 20px;
+    width: 8%;
+    border-radius: 50%;
+    padding: 20px;
       
   }
 
   .cabecalho-menu-listaitem{
-
     display: inline;
     text-transform: uppercase;
     margin: 30px;
@@ -88,7 +86,7 @@ text-decoration: none;
  }
  
  .cabecalho-menu-listaitem a:active{
-     color: red;
+    color: red;
  }
 
  .rodape{
