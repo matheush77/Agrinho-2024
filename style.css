@@ -90,3 +90,8 @@ text-decoration: none;
  .cabecalho-menu-listaitem a:active{
      color: red;
  }
+
+ .rodape{
+  text-align: center;
+  padding: 15px 0;
+}
