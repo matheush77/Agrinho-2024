@@ -26,3 +26,7 @@ a {
 .cabecalho-menu-listaitem a:active{
       color: red;
 }
+
+body{
+    background-color: black;
+}
