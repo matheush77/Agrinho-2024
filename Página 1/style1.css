@@ -16,7 +16,7 @@ a {
 }
 
 .cabecalho-menu-listaitem a{
-    color: black;
+    color: white
  }
   
 .cabecalho-menu-listaitem a:hover{
@@ -25,4 +25,8 @@ a {
    
 .cabecalho-menu-listaitem a:active{
       color: red;
+}
+
+body{
+    background-color: black;
 }
