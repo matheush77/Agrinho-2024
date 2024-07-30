@@ -30,22 +30,45 @@ a{
     color: white;
   }
   
-  .cabecalho-menu-listaitem a:hover{
+.cabecalho-menu-listaitem a:hover{
     color: purple
    }
    
-   .cabecalho-menu-listaitem a:active{
+.cabecalho-menu-listaitem a:active{
       color: red;
    }
   
-   .rodape{
+.rodape{
     text-align: center;
     padding: 15px 0;
   }
   
-  .logo__rodape{
+.logo__rodape{
     width: 5%;
     border-radius: 50%;
     padding: 20px;
     
   }
+
+.sobre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+  }
+
+.sobre_texto{
+    padding: 40px;
+    color: white;
+    margin-right: 71px;
+  }
+
+.sobre_texto-titulo{
+    color: white;
+  }
+
+.sobre_imagem{
+    width: 850px;
+    height: 450px;
+    margin-left: 160px;
+} 
