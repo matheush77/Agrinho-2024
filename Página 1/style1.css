@@ -31,6 +31,14 @@ body{
     background-color: black;
 }
 
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+
+}
+
 .item {
     display: flex;
     align-items: center;
@@ -53,17 +61,9 @@ h2 {
      margin-top: 0;
  }
  
- .gallery {
+.gallery {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     padding: 20px;
-}
-
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f4f4f4;
-
 }
