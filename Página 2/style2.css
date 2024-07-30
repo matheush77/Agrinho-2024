@@ -94,3 +94,11 @@ body {
     display: block;
     margin: 10px 0;
 }
+
+.main-content {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
