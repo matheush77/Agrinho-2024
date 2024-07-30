@@ -1,60 +1,54 @@
-body{
-    background-color: black
-}
-
-a{
-    text-decoration: none;
-}
-
-.cabecalho{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
-
-.cabecalho-menu-listaitem{
-    display: inline;
-    text-transform: uppercase;
-    margin: 30px;
-}
-
-.cabecalho-menu-listaitem a{
-    color: white
- }
-  
-.cabecalho-menu-listaitem a:hover{
-    color: purple
-}
-   
-.cabecalho-menu-listaitem a:active{
-      color: red;
-}
-
-.cabecalho-imagem{
-    width: 8%;
-    border-radius: 50%;
-    padding: 20px; 
-  }
-
-  .rodape{
-    text-align: center;
-    padding: 15px 0;
-}
-
-.logo__rodape{
-    width: 5%;
-    border-radius: 50%;
-    padding: 20px;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 body {
     font-family: Arial, sans-serif;
     display: flex;
+    flex-direction: column;
+    min-height: 100vh; 
+}
+
+.cabecalho {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+}
+
+.cabecalho-imagem {
+    height: 50px;
+}
+
+.cabecalho-menu {
+    display: flex;
+}
+
+.cabecalho-menu-lista {
+    list-style: none;
+    display: flex;
+}
+
+.cabecalho-menu-listaitem {
+    margin: 0 10px;
+}
+
+.cabecalho-menu-listaitem a {
+    color: white;
+    text-decoration: none;
+}
+
+.main-content {
+    flex: 1; 
+    display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
-    margin: 0;
-    background-color: #f0f0f0;
+    padding: 20px;
 }
 
 .card {
@@ -69,7 +63,7 @@ body {
 }
 
 .card-image {
-    width: 200px;
+    width: 200px; 
     height: auto;
     object-fit: cover;
 }
@@ -95,10 +89,16 @@ body {
     margin: 10px 0;
 }
 
-.main-content {
-    flex: 1;
+
+.rodape {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
     display: flex;
     justify-content: center;
-    align-items: center;
-    padding: 20px;
+}
+
+.logo__rodape {
+    height: 50px;
 }
