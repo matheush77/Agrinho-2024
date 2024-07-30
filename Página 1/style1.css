@@ -1,0 +1,16 @@
+a {
+    text-decoration: none;
+}
+
+.cabecalho{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+.cabecalho-menu-listaitem{
+    display: inline;
+    text-transform: uppercase;
+    margin: 30px;
+    
+}
