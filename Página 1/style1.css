@@ -31,33 +31,29 @@ body{
     background-color: black;
 }
 
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f4f4f4;
-
-}
-
-.item{ 
+.item {
     display: flex;
     align-items: center;
-    background: white;
+    background: #fff;
     border-radius: 8px;
     margin: 10px;
     padding: 20px;
 }
 
-.imagem{
+.imagem {
     max-width: 150px;
     border-radius: 8px;
     margin-right: 20px;
 }
 
-h2 {
-    margin-top: 0;
-}
+.descricao {
+     max-width: calc(100% - 170px);
+ }
 
+h2 {
+     margin-top: 0;
+ }
+ 
 .gallery {
     display: flex;
     flex-wrap: wrap;
