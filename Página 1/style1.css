@@ -1,5 +1,5 @@
-.fundo__imagem{
+body{
     background-image: url("/Imagens/BackcroundP.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
 }
