@@ -16,56 +16,52 @@ a{
     width: 8%;
     border-radius: 50%;
     padding: 20px;
-      
 }
 
 .cabecalho-menu-listaitem{
     display: inline;
     text-transform: uppercase;
-    margin: 30px;
-    
+    margin: 30px; 
 }
 
 .cabecalho-menu-listaitem a{
     color: white;
-  }
+}
   
 .cabecalho-menu-listaitem a:hover{
     color: purple
-   }
+ }
    
 .cabecalho-menu-listaitem a:active{
       color: red;
-   }
+}
   
 .rodape{
     text-align: center;
     padding: 15px 0;
-  }
+}
   
 .logo__rodape{
     width: 5%;
     border-radius: 50%;
     padding: 20px;
-    
-  }
+}
 
 .sobre{
     display: flex;
     justify-content: center;
     align-items: center;
-  
-  }
+}
 
 .sobre_texto{
     padding: 40px;
     color: white;
     margin-right: 71px;
-  }
+}
 
 .sobre_texto-titulo{
     color: white;
-  }
+}
 
 .sobre_imagem{
     width: 850px;
