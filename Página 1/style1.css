@@ -6,11 +6,23 @@ a {
     display: flex;
     align-items: center;
     justify-content: space-between;
-  }
+}
 
 .cabecalho-menu-listaitem{
     display: inline;
     text-transform: uppercase;
     margin: 30px;
     
+}
+
+.cabecalho-menu-listaitem a{
+    color: black;
+ }
+  
+.cabecalho-menu-listaitem a:hover{
+    color: purple
+}
+   
+.cabecalho-menu-listaitem a:active{
+      color: red;
 }
