@@ -29,3 +29,9 @@ a{
 .cabecalho-menu-listaitem a:active{
       color: red;
 }
+
+.cabecalho-imagem{
+    width: 8%;
+    border-radius: 50%;
+    padding: 20px; 
+  }
