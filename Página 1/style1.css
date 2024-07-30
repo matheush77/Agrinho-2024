@@ -12,7 +12,6 @@ a {
     display: inline;
     text-transform: uppercase;
     margin: 30px;
-    
 }
 
 .cabecalho-menu-listaitem a{
@@ -34,8 +33,7 @@ body{
 .cabecalho-imagem{
     width: 8%;
     border-radius: 50%;
-    padding: 20px;
-      
+    padding: 20px; 
   }
 
 .container {
@@ -79,5 +77,4 @@ body{
     width: 5%;
     border-radius: 50%;
     padding: 20px;
-    
 }
